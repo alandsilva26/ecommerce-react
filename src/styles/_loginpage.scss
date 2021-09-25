@@ -1,0 +1,38 @@
+.LoginBox {
+  // background-image: url('http://localhost:3000/media/store.jpg');
+  background-size: contain;
+  background-color: $secondary-color;
+
+  .GreetingTextItem {
+    padding: 2em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .MuiTypography-h2 {
+      font-weight: bold;
+    }
+  }
+
+  .LoginGridItem {
+    background-color: white;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+
+    .MuiContainer-root {
+      text-align: center;
+    }
+
+    .IconButton {
+      border: 1px solid grey;
+      margin: 1em 0.25em;
+    }
+
+    .SwitchField {
+      border: none;
+    }
+  }
+}

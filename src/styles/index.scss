@@ -1,0 +1,16 @@
+@import './variables';
+@import './loginpage';
+@import './home';
+
+// * {
+//   background-color: #f1faee;
+// }
+
+.navbar-brand {
+  color: white;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
