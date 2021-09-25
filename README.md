@@ -5,6 +5,6 @@
 * Material UI components 
 
 # Preview
-![./screenshots/login.png](Login)
-![./screenshots/home.png](Home)
-![./screenshots/cart.png](Cart)
+![./screenshots/login.png](./screenshots/login.png)
+![./screenshots/home.png](./screenshots/home.png)
+![./screenshots/cart.png](./screenshots/cart.png)
